@@ -12,7 +12,7 @@
 
 QT       += core gui network widgets
 
-TARGET = ../QuTTY
+TARGET = ../diana-qutty
 TEMPLATE = lib
 
 
